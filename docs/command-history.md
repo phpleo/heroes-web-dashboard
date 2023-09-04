@@ -2,6 +2,13 @@
 
 ## Project structure
 
+0. ng new
+```bash
+ng new heroes-web-dashboard --directory=./ --skip-git
+? add Angular routing: yes
+? stylesheet: css
+```
+
 1. Auth
 ```bash
 ng g m auth --routing
